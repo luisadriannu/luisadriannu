@@ -18,6 +18,8 @@ Me gusta mucho programar páginas web, me especializo más en la parte visual co
 
 - **HTML**
 - **CSS**
+- **Figma*
+- **Bootstrap**
 - **GIT**
 - **MARKDOWN**
 
@@ -38,3 +40,5 @@ Para más informacion visita mi portafolio digital 👉 [portafolio-digital.web.
 - [Facebook](https://www.facebook.com/luisadrian.nunezjara)
 
 - [Twitter](https://twitter.com/LuisAdrianNuez?t=LGtN8Y_iq9YpiaTIVvOgBQ&s=09)
+
+- [Instagram](https://instagram.com/luizackjs?igshid=ZDdkNTZiNTM=)
