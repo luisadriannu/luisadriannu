@@ -18,7 +18,7 @@ Me gusta mucho programar páginas web, me especializo más en la parte visual co
 
 - **HTML**
 - **CSS**
-- **Figma*
+- **Figma**
 - **Bootstrap**
 - **GIT**
 - **MARKDOWN**
