@@ -43,4 +43,4 @@ Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](h
 
 - [Instagram](https://instagram.com/luizackjs?igshid=ZDdkNTZiNTM=)
 
--_No existen verdades **absolutas**.. Solo **diferentes** maneras de realizar las cosas._
+-_"No existen verdades **absolutas**.. Solo **diferentes** maneras de realizar las cosas."_
