@@ -1,6 +1,6 @@
 # Hola, bienvenido a mi perfil.😁
 
-## Mi nombre es _Luis Adrian Nuñez Jaramillo_ tengo la edad de 22 años.
+## Mi nombre es _Luis Adrian Nuñez Jaramillo_ tengo la edad de 23 años.
 
 Actualmente estudio ingeniería en sistemas computacionales en el [_Instituto Tecnológico Superior de Huetamo_](https://huetamo.tecnm.mx/).🎓
 
@@ -42,3 +42,5 @@ Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](h
 - [Twitter](https://twitter.com/LuisAdrianNuez?t=LGtN8Y_iq9YpiaTIVvOgBQ&s=09)
 
 - [Instagram](https://instagram.com/luizackjs?igshid=ZDdkNTZiNTM=)
+
+-_No existen verdades **absolutas**.. Solo **diferentes** maneras de realizar las cosas._
