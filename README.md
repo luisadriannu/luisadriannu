@@ -11,8 +11,6 @@ Me gusta mucho programar páginas web, me especializo más en la parte visual co
 #### Lenguajes:
 
 - **JavaScript**
-- **JAVA**
-- **KOTLIN**
 
 #### Otras herramientas:
 
@@ -45,5 +43,5 @@ Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](h
 
 -_"No existen verdades **absolutas**.. Solo **diferentes** maneras de realizar las cosas."_
 
-![Snake animation](https://github.com/SamuelUru2001/SamuelUru2001/blob/output/github-contribution-grid-snake.svg)
+![Snake animation]([https://github.com/SamuelUru2001/SamuelUru2001/blob/output/github-contribution-grid-snake.svg](https://github.com/luisadriannu/snake))
 
