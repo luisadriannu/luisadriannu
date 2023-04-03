@@ -6,8 +6,6 @@ Egresado de la carrera de Ingeniería en Sistemas Computacionales en el [_Instit
 
 Me gusta mucho programar páginas web, me especializo más en la parte visual como **frontend**, y estoy en proceso de adentrarme en la parte **backend**.🤓
 
-### Actualmente mis conocimientos hasta el momento son..
-
 <h3>Lenguajes y Herramientas:</h3>
 <div style='display: inline_block'>
   <br>
