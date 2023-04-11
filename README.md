@@ -24,7 +24,7 @@ Me gusta mucho programar páginas web, me especializo más en la parte visual co
   
 _Cada dia aprendiendo algo nuevo.._
 
-Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](https://luisadriannu.github.io/portafolio-web/portafolio_cv)
+Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](https://portafolio-web-a81f5.web.app/)
 
 #### Mis redes sociales:
 
