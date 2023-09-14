@@ -24,7 +24,7 @@ Un joven apasionado con la habilidad en la creación de experiencias web interac
   
 _Cada dia aprendiendo algo nuevo.._
 
-Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](https://portafolio-web-a81f5.web.app/)
+Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](https://luizack.site)
 
 #### Mis redes sociales:
 
