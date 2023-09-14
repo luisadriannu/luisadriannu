@@ -4,7 +4,7 @@
 
 Egresado de la carrera de Ingeniería en Sistemas Computacionales en el [_Instituto Tecnológico Superior de Huetamo_](https://huetamo.tecnm.mx/).🎓
 
-Me gusta mucho programar páginas web, me especializo más en la parte visual como **frontend**, y estoy en proceso de adentrarme en la parte **backend**.🤓
+Un joven apasionado con la habilidad en la creación de experiencias web interactivas y atractivas.🤓
 
 <h3>Lenguajes y Herramientas:</h3>
 <div style='display: inline_block'>
@@ -33,8 +33,6 @@ Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](h
 - [Twitter](https://twitter.com/LuisAdrianNuez?t=LGtN8Y_iq9YpiaTIVvOgBQ&s=09)
 
 - [Instagram](https://instagram.com/luizackjs?igshid=ZDdkNTZiNTM=)
-
--_"No existen verdades **absolutas**.. Solo **diferentes** maneras de realizar las cosas."_
 
 ![Snake animation](https://github.com/luisadriannu/snake/blob/main/snake.svg)
 
