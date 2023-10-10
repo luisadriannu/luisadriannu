@@ -1,12 +1,12 @@
-# Hola, bienvenido a mi perfil.😁
+# Hi, welcome to my profile.
 
-## Mi nombre es _Luis Adrian Nuñez Jaramillo_ tengo la edad de 23 años.
+## My name is _Luis Adrian Nuñez Jaramillo_ I have 23 years old.
 
-Egresado de la carrera de Ingeniería en Sistemas Computacionales en el [_Instituto Tecnológico Superior de Huetamo_](https://huetamo.tecnm.mx/).🎓
+Graduated with a degree in Computer Systems Engineering at the [_Instituto Tecnológico Superior de Huetamo_](https://huetamo.tecnm.mx/).🎓
 
-Un joven apasionado con la habilidad en la creación de experiencias web interactivas y atractivas.🤓
+I am a passionate young man with the ability to create interactive and engaging web experiences.✨
 
-<h3>Lenguajes y Herramientas:</h3>
+<h3>Skills:</h3>
 <div style='display: inline_block'>
   <br>
   <img align="center" alt="Javascript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -17,16 +17,17 @@ Un joven apasionado con la habilidad en la creación de experiencias web interac
   <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Tailwind" height="40" width="50" src="https://img.jsdelivr.com/github.com/tailwindlabs.png">
   <img align="center" alt="Npm" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg">
   <img align="center" alt="Visual Code" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 </div>
   <br>
   
-_Cada dia aprendiendo algo nuevo.._
+_Every day learning something new..🪴_
 
-Para más informacion visita mi portafolio digital 👉 [Link a mi portafolio](https://luizack.site)
+For more information visit my portfolio web 👉 [Link a mi portafolio](https://luisadrian.me)
 
-#### Mis redes sociales:
+#### My social media:
 
 - [Facebook](https://www.facebook.com/luisadrian.nunezjara)
 
