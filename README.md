@@ -15,7 +15,7 @@ I am a passionate young man with the ability to create interactive and engaging 
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Figma" height="40" width="50" src="https://logodownload.org/wp-content/uploads/2022/12/figma-logo-0.png">
-  <img align="center" alt="Github" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg](https://static-00.iconduck.com/assets.00/github-icon-512x497-oppthre2.png">
+  <img align="center" alt="Github" height="40" width="50" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
   <img align="center" alt="Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Bootstrap" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Tailwind" height="40" width="50" src="https://img.jsdelivr.com/github.com/tailwindlabs.png">
