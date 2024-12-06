@@ -26,7 +26,7 @@ I am a passionate young man with the ability to create interactive and engaging 
   
 _Every day learning something new..🪴_
 
-For more information visit my portfolio web 👉 [luisadrian.me](https://luisadrian.me)
+For more information visit my portfolio web 👉 [luisadrian.me]([https://luisadrian.me](https://luizack.vercel.app/))
 
 #### My social media:
 
@@ -34,7 +34,7 @@ For more information visit my portfolio web 👉 [luisadrian.me](https://luisadr
 
 - [Twitter](https://twitter.com/LuisAdrianNuez?t=LGtN8Y_iq9YpiaTIVvOgBQ&s=09)
 
-- [Instagram](https://instagram.com/luizackjs?igshid=ZDdkNTZiNTM=)
+- [Instagram](https://www.instagram.com/luisadriannu26)
 
 ![Snake animation](https://github.com/luisadriannu/snake/blob/main/snake.svg)
 
