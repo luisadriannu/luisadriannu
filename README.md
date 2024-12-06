@@ -26,7 +26,7 @@ I am a passionate young man with the ability to create interactive and engaging 
   
 _Every day learning something new..🪴_
 
-For more information visit my portfolio web 👉 [luisadrian.me]([https://luisadrian.me](https://luizack.vercel.app/))
+For more information visit my portfolio web 👉 [luisadrian.me]([https://luisadrian.me](https://luizack.vercel.app/)
 
 #### My social media:
 
