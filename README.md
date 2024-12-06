@@ -2,7 +2,7 @@
 
 ## My name is _Luis Adrian Nuñez Jaramillo_ I have 24 years old.
 
-Graduated with a degree in Computer Systems Engineering at the [_Instituto Tecnológico Superior de Huetamo_](https://huetamo.tecnm.mx/).🎓
+Computer Systems Engineering at the [_Instituto Tecnológico Superior de Huetamo_](https://huetamo.tecnm.mx/).🎓
 
 I am a passionate young man with the ability to create interactive and engaging web experiences.✨
 
